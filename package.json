@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/athenea0118/FaceRecognizerServer/issues"
   },
-  "homepage": "https://github.com/athenea0118/FaceRecognizerServer#readme"
+  "homepage": "https://github.com/athenea0118/FaceRecognizerServer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
 }
