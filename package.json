@@ -1,0 +1,19 @@
+{
+  "name": "facerecognizerserver",
+  "version": "1.0.0",
+  "description": "Face Recognizer Server using DeepFace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athenea0118/FaceRecognizerServer.git"
+  },
+  "author": "Athenea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athenea0118/FaceRecognizerServer/issues"
+  },
+  "homepage": "https://github.com/athenea0118/FaceRecognizerServer#readme"
+}
